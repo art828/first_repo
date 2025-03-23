@@ -1,2 +1,2 @@
 # first_repo
-python
+Hello, this is my project
